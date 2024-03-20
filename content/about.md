@@ -7,6 +7,8 @@ draft = false
 n-atsushi
 ## メール
 準備中
+## Twitter
+準備中
 ## GitHub
 [GitHub](https://github.com/n-atsushi)
 ## 在住

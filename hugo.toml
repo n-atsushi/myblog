@@ -43,11 +43,15 @@ publishDir = "public"
     url = '/about'
     weight = 30
   [[Languages.ja.menu.main]]
+    pageRef="skill"
+    name = 'Skill'
+    url = '/skill'
+    weight = 40
+ [[Languages.ja.menu.main]]
     pageRef="Categories"
     name = 'Categories'
     url = '/categories/'
-    weight = 40
- 
+    weight = 50
 [Languages.ja.params]
   sitename = "n-atsushi blog"
   defaultColor = "dark" 
@@ -65,7 +69,7 @@ publishDir = "public"
   intro = "Atsushi blog"
   name = "n-atsushi"
   description = "I love sauna and Genius."
-  
+
 [Languages.ja.params.webmanifest]
   name = "blog"
   short_name = "blog"
